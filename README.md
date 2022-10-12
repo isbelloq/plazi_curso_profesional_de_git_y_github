@@ -9,6 +9,8 @@ Repositorio del curso de Git y Github de Plazi
 * __04_git_reset_vs_git_rm.md__ Se exponen las diferencias entre los comandos `git reset` y `git rm`
 * __05_flujo_de_trabajo_basico_con_un_repositorio_remoto.md__ Se muestran los comando basicos para trabajo en repositorios remotos y algunos comandos avanzados para `git log`
 * __06_introduccion_a_las_ramas_o_branches_de_git.md__ Se muestra la creacion y el cambio entre ramas
+* __07_fusion_de_ramas_con_git_merge.md__ Se muestra como hacer la fucion de ramas
+* __08_resolucion_de_conflictos_al_hacer_un_merge.md__ Se muestra como se solucionan conflictos a la hora de hacer un merge
 
 ```bash
 plazi_curso_profesional_de_git_y_github
@@ -19,5 +21,7 @@ plazi_curso_profesional_de_git_y_github
 ├── 04_git_reset_vs_git_rm.md
 ├── 05_flujo_de_trabajo_basico_con_un_repositorio_remoto.md
 ├── 06_introduccion_a_las_ramas_o_branches_de_git.md
+├── 07_fusion_de_ramas_con_git_merge.md
+├── 08_resolucion_de_conflictos_al_hacer_un_merge.md
 └── README.md
 ```
