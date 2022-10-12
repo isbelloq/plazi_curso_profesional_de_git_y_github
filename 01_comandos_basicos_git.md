@@ -9,6 +9,8 @@
     * `--list` Lista las diferentes opciones de de configuracion
         * `--show-origin` Muesta las rutas de almacenamiento de los archivos de configuracion
     * `--global` Modificacion de configuracion global
-        * `user.name` Configuracion del nombre
-        * `user.email` Configuracion del email
+        * `user.name "{Nombre}"` Configuracion del nombre
+        * `user.email {email}` Configuracion del email
+        * `--replace-all user.name {nombre}` Se reemplaza el nombre en caso de errores.
+        * `--unset-all user.name` Elimina el nombre del usuario
 * `git log {archivo}`: Muestra el historial de cambios de un archivo
