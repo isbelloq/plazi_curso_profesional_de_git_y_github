@@ -11,6 +11,7 @@ Repositorio del curso de Git y Github de Plazi
 * __06_introduccion_a_las_ramas_o_branches_de_git.md__ Se muestra la creacion y el cambio entre ramas
 * __07_fusion_de_ramas_con_git_merge.md__ Se muestra como hacer la fucion de ramas
 * __08_resolucion_de_conflictos_al_hacer_un_merge.md__ Se muestra como se solucionan conflictos a la hora de hacer un merge
+* __09_uso_de_github.md__ Se muestran comando se sincronizacion con github
 
 ```bash
 plazi_curso_profesional_de_git_y_github
@@ -23,5 +24,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 06_introduccion_a_las_ramas_o_branches_de_git.md
 ├── 07_fusion_de_ramas_con_git_merge.md
 ├── 08_resolucion_de_conflictos_al_hacer_un_merge.md
+├── 09_uso_de_github.md
 └── README.md
 ```

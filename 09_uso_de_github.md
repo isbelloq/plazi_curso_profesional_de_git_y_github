@@ -1,0 +1,6 @@
+# Uso de GitHub
+
+* `git remote add origin {url}` Agregar un repositorio remoto al proyecto
+* `git pull origin main` Sincroniza el repositorio remoto al local, se hacen dos acciones, `git fetch` y `git merge`
+    * `--allow-unrelated-histories` Se fuciona dos _historias_ que no tienen nada que ver, ejemplo, si hay un README en el repositorio remoto y otros commits en el local.
+* `git push origin main` Se envian los cambios al repositorio remoto
