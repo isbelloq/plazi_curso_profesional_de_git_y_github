@@ -12,6 +12,7 @@ Repositorio del curso de Git y Github de Plazi
 * __07_fusion_de_ramas_con_git_merge.md__ Se muestra como hacer la fucion de ramas
 * __08_resolucion_de_conflictos_al_hacer_un_merge.md__ Se muestra como se solucionan conflictos a la hora de hacer un merge
 * __09_uso_de_github.md__ Se muestran comando se sincronizacion con github
+* __10_configura_tu_llave_ssh_en_local.md__ Se  muestran los pasos para configurar la llave SSH en el entorno local.
 
 ```bash
 plazi_curso_profesional_de_git_y_github
@@ -25,5 +26,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 07_fusion_de_ramas_con_git_merge.md
 ├── 08_resolucion_de_conflictos_al_hacer_un_merge.md
 ├── 09_uso_de_github.md
+├── 10_configura_tu_llave_ssh_en_local.md
 └── README.md
 ```
