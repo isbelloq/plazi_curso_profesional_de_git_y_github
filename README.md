@@ -13,6 +13,7 @@ Repositorio del curso de Git y Github de Plazi
 * __08_resolucion_de_conflictos_al_hacer_un_merge.md__ Se muestra como se solucionan conflictos a la hora de hacer un merge
 * __09_uso_de_github.md__ Se muestran comando se sincronizacion con github
 * __10_configura_tu_llave_ssh_en_local.md__ Se  muestran los pasos para configurar la llave SSH en el entorno local.
+* __11_tags_y_versiones_en_git_y_github.md__ Se  muestran manipulacion de tags en repo local y remoto.
 
 ```bash
 plazi_curso_profesional_de_git_y_github
@@ -27,5 +28,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 08_resolucion_de_conflictos_al_hacer_un_merge.md
 ├── 09_uso_de_github.md
 ├── 10_configura_tu_llave_ssh_en_local.md
+├── 11_tags_y_versiones_en_git_y_github.md
 └── README.md
 ```
