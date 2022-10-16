@@ -15,6 +15,8 @@ Repositorio del curso de Git y Github de Plazi
 * __10_configura_tu_llave_ssh_en_local.md__ Se muestran los pasos para configurar la llave SSH en el entorno local.
 * __11_tags_y_versiones_en_git_y_github.md__ Se muestran manipulacion de tags en repo local y remoto.
 * __12_creando_un_fork_contribuyendo_a_un_repo.md__ Se muestran como agrean repositorios para contribucion.
+* __13_ignorar_archivos_en_el_repositorio_con_gitignore.md__ Consideraciones a la hora de hacer un archivo `.gitignore`.
+
 
 ```bash
 plazi_curso_profesional_de_git_y_github
@@ -31,5 +33,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 10_configura_tu_llave_ssh_en_local.md
 ├── 11_tags_y_versiones_en_git_y_github.md
 ├── 12_creando_un_fork_contribuyendo_a_un_repo.md
+├── 13_ignorar_archivos_en_el_repositorio_con_gitignore.md
 └── README.md
 ```
