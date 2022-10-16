@@ -16,6 +16,7 @@ Repositorio del curso de Git y Github de Plazi
 * __11_tags_y_versiones_en_git_y_github.md__ Se muestran manipulacion de tags en repo local y remoto.
 * __12_creando_un_fork_contribuyendo_a_un_repo.md__ Se muestran como agrean repositorios para contribucion.
 * __13_ignorar_archivos_en_el_repositorio_con_gitignore.md__ Consideraciones a la hora de hacer un archivo `.gitignore`.
+* __14_git_rebase_reorganizando_el_trabajo_realizado.md__ Se muestra el uso del comando `git rebase` __su uso no es una buena practica__.
 
 
 ```bash
@@ -34,5 +35,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 11_tags_y_versiones_en_git_y_github.md
 ├── 12_creando_un_fork_contribuyendo_a_un_repo.md
 ├── 13_ignorar_archivos_en_el_repositorio_con_gitignore.md
+├── 14_git_rebase_reorganizando_el_trabajo_realizado.md
 └── README.md
 ```
