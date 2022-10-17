@@ -15,3 +15,4 @@
         * `--replace-all user.name {nombre}` Se reemplaza el nombre en caso de errores.
         * `--unset-all user.name` Elimina el nombre del usuario
 * `git log {archivo}`: Muestra el historial de cambios de un archivo
+* `git {comando} --help`: muestra como funciona el comando.

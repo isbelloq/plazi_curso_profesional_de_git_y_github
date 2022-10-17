@@ -2,6 +2,8 @@
 * `git commit -a` Se hace el commit de los archivos ya trakeados sin necesidad de hacer git add antes.
 * `git show` Muesta el HEAD.
 * `git branch {nombre_rama}` Crea una rama nueva
+    * `git branch -r`: se muestran todas las ramas remotas.
+    * `git branch -a`: se muestran todas las ramas, tanto locales como remotas.
 * `git show-branch` Muestra las ramas
     * `--all` Muestra un detalle completo.
 * `git checkout {nombre_rama}` Se cambia a la rama especificada.

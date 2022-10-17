@@ -10,9 +10,6 @@
 * `git grep "{palabra}"`: Busqueda de palabras en archivos
     * `git grep -n "{palabra}"`: Indica la linea en donde esta la palabra dentro del archivo.
     * `git grep -c "{palabra}"`: Cuneta las palabras en los diferentes archivos.
-
-## Log avanzados para trabajo remoto
-
 * `git log` 
     * `--oneline`:Te muestra el id commit y el título del commit.
     * `--decorate`: Te muestra donde se encuentra el head point en el log.
@@ -28,3 +25,10 @@
     * `-S “Por contenido”`: Buscar los commits con el contenido dentro del archivo.
 * `git log > log.txt`: guardar los logs en un archivo txt
 * `git shortlog`: Indica que commits ha realizado un usuario, mostrando el usuario y el título de sus commits.
+    * `git shortlog -sn`: muestra cuantos commit han hecho cada miembro del equipo.
+    * `git shortlog -sn --all`: muestra cuantos commit han hecho cada miembro del equipo, hasta los que han sido eliminados.
+    * `git shortlog -sn --all --no-merge`: muestra cuantos commit ha hecho cada miembro, quitando los eliminados sin los merges.
+* `git blame {archivo}`: muestra los cambios realizado por los diferentes integrantes del equipo línea por línea.
+    * `git blame -c {archivo}`: Identado de lineas.
+    * `git blame {archivo} -L{i},{j}`: Identifica los cambios realizados en un archivo entre las lineas `i` y `j`.
+* `git config --global alias.{nombre_alias} "{comando}"` : Creacion de alias de comandos. Ejemplo `git config --global alias.stats "shortlog -sn --all --no-merge"` crea el comando `git stats` equivalente a `git shortlog -sn --all --no-merge`
