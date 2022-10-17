@@ -7,6 +7,9 @@
 * `git fetch`: Lo usamos para traer actualizaciones del servidor remoto y guardarlas en nuestro repositorio local (en caso de que hayan, por supuesto).
 * `git merge`: También usamos el comando `git merge` con servidores remotos. Lo necesitamos para combinar los últimos cambios del servidor remoto y nuestro directorio de trabajo.
 * `git pull`: Básicamente, `git fetch` y `git merge` al mismo tiempo.
+* `git grep "{palabra}"`: Busqueda de palabras en archivos
+    * `git grep -n "{palabra}"`: Indica la linea en donde esta la palabra dentro del archivo.
+    * `git grep -c "{palabra}"`: Cuneta las palabras en los diferentes archivos.
 
 ## Log avanzados para trabajo remoto
 
