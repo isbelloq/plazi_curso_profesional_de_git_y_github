@@ -20,6 +20,7 @@ Repositorio del curso de Git y Github de Plazi
 * __15_git_stash_guarda_cambios_en_memoria_y_recuperalos_despues.md__ Se muestra el uso del comando `git stash` __el mejor comando de la vida__ siver para hacer experimentos que no necesitan hacer commit.
 * __16_git_clean_limpiar_tu_proyecto_de_archivos_no_deseados.md__ Muesta el uso de comando `git clean` para borrado de archivos que no han estan en el repositorio __usar con precaucion__.
 * __17_git_cherry_pick_traer_commits_viejos_al_head_de_un_branch.md__ Muesta el uso de comando `git cherry-pick` para traer commits especificos a otras ramas __mala practica__.
+* __18_git_reset_y_git_reflog_usese_en_caso_de_emergencia.md__ Uso de los comando `git reflog` y `git reset`, solo se debe usar en __casos de emergencia__.
 
 
 ```bash
@@ -42,5 +43,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 15_git_stash_guarda_cambios_en_memoria_y_recuperalos_despues.md
 ├── 16_git_clean_limpiar_tu_proyecto_de_archivos_no_deseados.md
 ├── 17_git_cherry_pick_traer_commits_viejos_al_head_de_un_branch.md
+├── 18_git_reset_y_git_reflog_usese_en_caso_de_emergencia.md
 └── README.md
 ```
