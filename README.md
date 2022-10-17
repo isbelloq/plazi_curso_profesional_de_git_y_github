@@ -18,6 +18,7 @@ Repositorio del curso de Git y Github de Plazi
 * __13_ignorar_archivos_en_el_repositorio_con_gitignore.md__ Consideraciones a la hora de hacer un archivo `.gitignore`.
 * __14_git_rebase_reorganizando_el_trabajo_realizado.md__ Se muestra el uso del comando `git rebase` __su uso no es una buena practica__.
 * __15_git_stash_guarda_cambios_en_memoria_y_recuperalos_despues.md__ Se muestra el uso del comando `git stash` __el mejor comando de la vida__ siver para hacer experimentos que no necesitan hacer commit.
+* __16_git_clean_limpiar_tu_proyecto_de_archivos_no_deseados.md__ Muesta el uso de comando `git clean` para borrado de archivos que no han estan en el repositorio __usar con precaucion__.
 
 
 ```bash
@@ -38,5 +39,6 @@ plazi_curso_profesional_de_git_y_github
 ├── 13_ignorar_archivos_en_el_repositorio_con_gitignore.md
 ├── 14_git_rebase_reorganizando_el_trabajo_realizado.md
 ├── 15_git_stash_guarda_cambios_en_memoria_y_recuperalos_despues.md
+├── 16_git_clean_limpiar_tu_proyecto_de_archivos_no_deseados.md
 └── README.md
 ```
